@@ -1,4 +1,4 @@
-# Infrastructure Naming Framework
+# QNS Infrastructure Naming Framework
 
 ## Overview
 

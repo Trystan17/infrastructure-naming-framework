@@ -33,20 +33,14 @@ Each bundle is organized according to:
 
 ## Example Bundles (Generic)
 
-- **Core Infrastructure Bundle**  
-  - Represents foundational services for any system.  
-
-- **Networking Bundle**  
-  - Represents routing, connectivity, and traffic management.  
-
-- **Security & Identity Bundle**  
-  - Represents access control, authentication, and policy enforcement.  
-
-- **Observability & Monitoring Bundle**  
-  - Represents metrics, logs, telemetry, and supervision.  
-
-- **Orchestration & Deployment Bundle**  
-  - Represents pipelines, clusters, schedulers, and modules.  
+- Core Infrastructure  
+- Network Transport  
+- Security and Access  
+- Operations and Observability  
+- Governance and Compliance  
+- DevOps and Deployment  
+- Edge and Connectivity  
+- User and Market  
 
 ---
 

@@ -46,9 +46,9 @@ The portfolio covers the following infrastructure domains:
 
 Each domain is available as a **licensable bundle**.
 
----
+## Status
 
-## Example Usage
+This repository documents an infrastructure naming framework.
+Some namespaces described here may be subject to licensing depending on usage scope.
 
-```text
-for examples, contact me in private.
+For architectural discussions or alignment, contact details can be shared privately.

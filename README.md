@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository presents a curated **infrastructure naming framework** designed for
+This repository presents a curated **infrastructure naming framework**  in Quilibrium Names Service (QNS) designed for
 enterprise-grade systems, distributed networks, blockchain protocols, and cloud-native architectures.
 
 The framework focuses on **clarity, scalability, and long-term architectural consistency**.
@@ -59,9 +59,9 @@ a separate licensing agreement.
 ## Licensing Model 
 
 The names presented in this repository are available under a licensing model:
-Annual or multi-year licenses
-Non-exclusive or exclusive options
-Optional revenue-based royalties
+- Annual or multi-year licenses
+- Non-exclusive or exclusive options
+- Optional revenue-based royalties
 See /licensing for details.
 
 ---
@@ -69,15 +69,19 @@ See /licensing for details.
 ## Target Users
 
 This portfolio is designed for:
-Blockchain & protocol teams
-Cloud infrastructure providers
-Web3 foundations
-SaaS platforms with complex backends
-AI & distributed compute platforms
+- Blockchain & protocol teams
+- Cloud infrastructure providers
+- Web3 foundations
+- SaaS platforms with complex backends
+- AI & distributed compute platforms
+- Infrastructure and platform engineers
+- System and network architects
+- Cloud-native and distribued system builders
+- Organizations designing large-scale technical stacks
 
 ---
 
 ## Contact
 
 For licensing inquiries, partnership discussions, or architectural alignment:
-Contact details provided privately upon request.
+Contact details provided privately upon request (mail in bio).

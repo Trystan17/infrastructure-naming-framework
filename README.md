@@ -48,6 +48,16 @@ Each domain is documented as a **coherent naming bundle**.
 
 ---
 
+## Design Principles
+This framework follows strict principles:
+- Names describe function, not branding
+- Names remain reusable across layers
+- Clear separation between control, data, and governance planes
+- Compatibility with long-term system evolution
+- Neutral, technology-agnostic terminology
+
+---
+
 ## Licensing Notice
 
 This repository is published for reference and architectural discussion purposes.

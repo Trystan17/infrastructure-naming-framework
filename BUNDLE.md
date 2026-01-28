@@ -52,31 +52,6 @@ Each bundle is organized according to:
 
 ---
 
-## Bundles List
-
-Click on any bundle below to view detailed descriptions, structure, principles, and licensing notes:
-
-- [Core Infrastructure](Core-infrastructure.md)  
-- [Network Transport](Network-transport.md)  
-- [Security and Access](bundles/security-and-access.md)  
-- [Operations and Observability](bundles/operations-and-observability.md)  
-- [Governance and Compliance](bundles/governance-and-compliance.md)  
-- [DevOps and Deployment](bundles/devops-and-deployment.md)  
-- [Edge and Connectivity](bundles/edge-and-connectivity.md)  
-- [User and Market](bundles/user-and-market.md)
-
-> Each link points to a **separate Markdown file** in the `/bundles/` folder for detailed bundle information.
-
----
-
-## How to Use This Repository
-
-1. Click on any bundle link above to explore its **detailed descriptions, structure, and principles**.  
-2. Review the licensing note in each bundle before considering any commercial usage.  
-3. Use this repository as a **reference and architectural guide** for designing infrastructure naming frameworks.
-
----
-
 ## Licensing Note
 
 All proprietary names, subdomains, and bundles in this framework are **fully owned by the repository owner**.  

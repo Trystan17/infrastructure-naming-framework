@@ -46,6 +46,8 @@ The naming framework covers the following infrastructure domains:
 
 Each domain is documented as a **coherent naming bundle**.
 
+---
+
 ## Licensing Notice
 
 This repository is published for reference and architectural discussion purposes.

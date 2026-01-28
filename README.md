@@ -1,37 +1,37 @@
-# QNS Infrastructure Naming Portfolio
+# Infrastructure Naming Framework
 
 ## Overview
 
-This repository presents a curated **infrastructure naming portfolio** designed for
+This repository presents a curated **infrastructure naming framework** designed for
 enterprise-grade systems, distributed networks, blockchain protocols, and cloud-native architectures.
 
-The portfolio is built around **core infrastructure concepts**, enabling organizations to
-structure, scale, and govern their systems with clear, consistent, and future-proof naming.
+The framework focuses on **clarity, scalability, and long-term architectural consistency**.
+It is intended as a reference layer for teams designing complex technical systems.
 
-This is not a collection of brand names.
-It is a **strategic naming layer for infrastructure**.
+This is not a branding exercise.
+It is a **structural naming foundation for infrastructure**.
 
 ---
 
 ## Why Infrastructure Naming Matters
 
-In complex systems, naming is not cosmetic — it is structural.
+In large-scale systems, naming is not cosmetic — it is architectural.
 
-Clear naming enables :
-- Scalable architecture
+Clear and consistent naming enables:
+- Scalable system design
 - Operational clarity
 - Governance and security enforcement
-- Long-term maintainability
 - Cross-team coordination
+- Long-term maintainability
 
-This portfolio provides **foundational naming primitives** that organizations can build upon
-without fragmentation or dependency on third-party namespaces.
+Poor naming decisions create technical debt.
+This framework aims to prevent that.
 
 ---
 
-## Portfolio Scope
+## Scope of the Framework
 
-The portfolio covers the following infrastructure domains :
+The naming framework covers the following infrastructure domains:
 
 - Core Network Architecture
 - Routing & Traffic Flow
@@ -44,11 +44,10 @@ The portfolio covers the following infrastructure domains :
 - Compute & Performance
 - Modular & Layered Architecture
 
-Each domain is available as a **licensable bundle**.
+Each domain is documented as a **coherent naming bundle**.
 
-## Status
+## Licensing Notice
 
-This repository documents an infrastructure naming framework.
-Some namespaces described here may be subject to licensing depending on usage scope.
-
-For architectural discussions or alignment, contact details can be shared privately.
+This repository is published for reference and architectural discussion purposes.
+Commercial use of the described naming framework or namespaces may require
+a separate licensing agreement.

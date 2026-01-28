@@ -1,23 +1,69 @@
 Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 
-This repository documents an infrastructure naming framework.
+# License – Infrastructure Naming Framework
 
-You are free to :
-- Share — copy and redistribute the material in any medium or format
+## Overview
 
-Under the following terms :
-- Attribution — You must give appropriate credit.
-- NoDerivatives — You may not remix, transform, or build upon the material.
-- Commercial usage of the described namespaces, structures, or naming schemes
-  may require a separate licensing agreement.
+This repository documents an **infrastructure naming framework** intended for
+reference, learning, and architectural guidance.
 
-This license applies to the documentation and conceptual material only.
-Ownership of names and namespaces is not transferred.
+The framework, including all **namespaces, bundles, and naming structures**, 
+is the intellectual property of the repository owner.
 
-For commercial or licensing inquiries, contact details can be shared privately.
+---
 
-Licensing Model
-The names presented in this repository are available under a licensing model:
-Annual or multi-year licenses
-Non-exclusive or exclusive options
-Optional revenue-based royalties
+## Scope of Ownership
+
+The repository owner is the exclusive owner of **74 unique infrastructure names**.  
+It is possible to create **subdomains** and **bundles** using any of these names.  
+All rights to these names, subdomains, and bundles are fully retained by the repository owner.  
+
+---
+
+## Permitted Use
+
+You are allowed to:
+
+- View, read, and reference the documentation  
+- Share the documentation with attribution  
+
+You are **not permitted** to:
+
+- Modify, remix, or republish the framework for commercial purposes  
+- Use any namespace, bundle, or structure in commercial products or services without a license  
+
+---
+
+## Commercial Licensing
+
+Commercial use of any namespaces, bundles, or naming structures described in this repository 
+requires a separate licensing agreement.
+
+Licensing options include:
+
+1. **Standard License** – Non-exclusive, one-year term  
+2. **Premium License** – Exclusive for specific sector or region  
+3. **Royalty-based License** – Usage fees proportional to revenue generated from the namespaces  
+
+All licenses are subject to a written agreement between the licensee and the repository owner.
+
+---
+
+## Attribution
+
+All shared or referenced material must credit the original repository and owner.  
+
+---
+
+## Disclaimer
+
+This license applies to the documentation and conceptual material only.  
+Ownership of names and namespaces is **not transferred**.  
+The framework is provided “as-is” without warranty of any kind.
+
+---
+
+## Contact
+
+For commercial licensing inquiries, partnership discussions, or further clarification:  
+> Contact details available privately upon request.

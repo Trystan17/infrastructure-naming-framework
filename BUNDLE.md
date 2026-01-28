@@ -56,7 +56,7 @@ Each bundle is organized according to:
 
 Click on any bundle below to view detailed descriptions, structure, principles, and licensing notes:
 
-- [Core Infrastructure](bundles/core-infrastructure.md)  
+- [Core Infrastructure](bundles/Core-infrastructure.md)  
 - [Network Transport](bundles/network-transport.md)  
 - [Security and Access](bundles/security-and-access.md)  
 - [Operations and Observability](bundles/operations-and-observability.md)  

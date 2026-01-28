@@ -17,3 +17,20 @@ It forms the base layer on which all other bundles rely.
 ---
 
 ## Generic Structure
+
+---
+
+## Principles
+
+1. Functional clarity – each subdomain has a clear role  
+2. Reusability across other bundles  
+3. Scalable design  
+4. Consistent naming conventions  
+5. Licensing awareness for commercial use  
+
+---
+
+## Licensing Note
+
+All proprietary names, subdomains, and bundles in this framework are **fully owned by the repository owner**.  
+Commercial use requires a **separate licensing agreement**.

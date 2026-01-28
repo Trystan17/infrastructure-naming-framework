@@ -1,9 +1,7 @@
-# Infrastructure Bundles – Reference Guide
+# Infrastructure Bundles – Central Hub
 
-## Overview
-
-This document provides a **reference guide for infrastructure bundles** based on the naming framework.  
-It is designed to demonstrate how **namespaces, subdomains, and bundles** can be organized and applied in enterprise-grade systems.
+This document serves as the **central hub** for all infrastructure bundles in this repository.  
+Each bundle is described in a separate file to keep the documentation modular and easy to maintain.
 
 Bundles are **coherent groups of infrastructure names** that represent functional domains.  
 They are intended to **simplify architecture design**, **improve governance**, and **enable scalable system organization**.
@@ -54,9 +52,30 @@ Each bundle is organized according to:
 
 ---
 
+## Bundles List
+
+Click on any bundle below to view detailed descriptions, structure, principles, and licensing notes:
+
+- [Core Infrastructure](bundles/core-infrastructure.md)  
+- [Network Transport](bundles/network-transport.md)  
+- [Security and Access](bundles/security-and-access.md)  
+- [Operations and Observability](bundles/operations-and-observability.md)  
+- [Governance and Compliance](bundles/governance-and-compliance.md)  
+- [DevOps and Deployment](bundles/devops-and-deployment.md)  
+- [Edge and Connectivity](bundles/edge-and-connectivity.md)  
+- [User and Market](bundles/user-and-market.md)  
+
+---
+
+## How to Use This Repository
+
+1. Click on any bundle link above to explore its **detailed descriptions, structure, and principles**.  
+2. Review the licensing note in each bundle before considering any commercial usage.  
+3. Use this repository as a **reference and architectural guide** for designing infrastructure naming frameworks.  
+
+---
+
 ## Licensing Note
 
 All proprietary names, subdomains, and bundles in this framework are **fully owned by the repository owner**.  
 Commercial use of any actual names or bundles requires a **separate licensing agreement**.
-
-This document is intended for **reference and architectural guidance** only.

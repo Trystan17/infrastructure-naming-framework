@@ -53,3 +53,31 @@ Each domain is documented as a **coherent naming bundle**.
 This repository is published for reference and architectural discussion purposes.
 Commercial use of the described naming framework or namespaces may require
 a separate licensing agreement.
+
+---
+
+## Licensing Model 
+
+The names presented in this repository are available under a licensing model:
+Annual or multi-year licenses
+Non-exclusive or exclusive options
+Optional revenue-based royalties
+See /licensing for details.
+
+---
+
+## Target Users
+
+This portfolio is designed for:
+Blockchain & protocol teams
+Cloud infrastructure providers
+Web3 foundations
+SaaS platforms with complex backends
+AI & distributed compute platforms
+
+---
+
+## Contact
+
+For licensing inquiries, partnership discussions, or architectural alignment:
+Contact details provided privately upon request.

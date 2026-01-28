@@ -17,7 +17,7 @@ It is a **strategic naming layer for infrastructure**.
 
 In complex systems, naming is not cosmetic — it is structural.
 
-Clear naming enables:
+Clear naming enables :
 - Scalable architecture
 - Operational clarity
 - Governance and security enforcement
@@ -31,7 +31,7 @@ without fragmentation or dependency on third-party namespaces.
 
 ## Portfolio Scope
 
-The portfolio covers the following infrastructure domains:
+The portfolio covers the following infrastructure domains :
 
 - Core Network Architecture
 - Routing & Traffic Flow
